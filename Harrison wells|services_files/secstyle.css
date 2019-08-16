@@ -1,0 +1,42 @@
+div.services
+{	
+	border:10px;
+	float: right;
+	color:#fff;
+	margin-right: 20px;
+
+}
+div.wrapper{
+background-color: #5f6368;
+}
+div.primary{
+	display:inline;
+}
+nav.grid_4 li{
+	list-style: inline;
+	display: inline;
+	padding-left: 20px;
+	font-style: italic;
+	font-size: 14px;
+	text-decoration: none;
+	width:100%;
+}
+img{
+	width:100%;
+}
+h1{
+	float:left;
+	margin-left: 10px;
+	padding-top: 0;
+}
+header{
+	background-color: #5f6368;
+}
+body{
+	background-color: :#fff;
+}
+.primary{
+	float: right;
+	list-style: none;
+	background-color: blue;
+}

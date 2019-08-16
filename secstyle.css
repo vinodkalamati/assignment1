@@ -1,12 +1,24 @@
-div.services
-{	
-	border:10px;
-	float: right;
-	color:#fff;
-	margin-right: 20px;
 
+div.wrapper{
+background: white;
+color: black;
+text-shadow: none;
+border-color: grey;
+border:1px;
+position: sticky; 
 }
-nav.grid_4 li{
+header{
+	position: sticky;
+}
+nav.navigation{
+	
+	margin-left: 70%;
+}
+p{
+	color: #999;
+}
+
+nav li{
 	list-style: inline;
 	display: inline;
 	padding-left: 20px;
@@ -16,18 +28,24 @@ nav.grid_4 li{
 	width:100%;
 }
 img{
-	width:100%;
+	max-width:100%;
+	padding-top: 10px;
+
 }
 h1{
-	float:left;
-	margin-left: 10px;
-	padding-top: 0;
+	margin-left:0% ;
+	color: #800080
 }
-.container_12{
-	background-color: Red;
+h3{
+	color:black;
+	font-family: sans-serif;
 }
-.primary{
-	float: right;
-	list-style: none;
-	background-color: blue;
+div.container_12{
+	background-color: white;}
+footer{
+	padding-left: 70%;
+	background-color: black;
+}
+footer h3{
+	color:white;
 }
