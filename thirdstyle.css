@@ -6,6 +6,7 @@ text-shadow: none;
 border-color: grey;
 border:1px; 
 }
+
 .hero{
 	background-image: url("hero.jpeg");
 	height: 50%;

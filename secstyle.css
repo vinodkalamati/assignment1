@@ -4,11 +4,9 @@ background: white;
 color: black;
 text-shadow: none;
 border-color: grey;
-border:1px;
-position: sticky; 
 }
 header{
-	position: sticky;
+	position: fixed;
 }
 nav.navigation{
 	
@@ -19,9 +17,8 @@ p{
 }
 
 nav li{
-	list-style: inline;
 	display: inline;
-	padding-left: 20px;
+	padding-left: 280px; 
 	font-style: italic;
 	font-size: 14px;
 	text-decoration: none;
@@ -48,4 +45,8 @@ footer{
 }
 footer h3{
 	color:white;
+}
+.container_12{
+	padding-top: 180px;
+
 }
