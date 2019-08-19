@@ -6,13 +6,17 @@ text-shadow: none;
 border-color: grey;
 border:1px; 
 }
+header{
+	position: fixed;
+	width: 100%;
+}
 .hero{
 	background-image: url("../images/hero.jpeg");
 	height: 50%;
   	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
-  	position: relative;
+  	padding-top: 300px;
 }
 .hero-text{
 	text-align: center;
